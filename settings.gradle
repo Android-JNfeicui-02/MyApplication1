@@ -1,0 +1,1 @@
+include ':app', ':listviewdemo', ':launchmodedemo', ':phonetest', ':listdemo', ':buttonclick', ':teldemo', ':viewpagerdemo', ':assrtstest', ':sqldemo', ':gridviewdemo', ':packagedemo'
